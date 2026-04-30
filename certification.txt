@@ -1,0 +1,19 @@
+---------------------------------------------------
+ ai ag 1.0
+---------------------------------------------------
+
+app_name - 						ai ag
+app_alias - 					aiag
+app_author_name - 				Mot Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Alger
+app_author_country - 			Algeria
+app_password - 					NA1ynwwgLOw2
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+---------------------------------------------------
+
